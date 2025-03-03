@@ -1,6 +1,6 @@
 # Build Apps with Windsurf’s AI Coding Agents
 
-- [Course Link](https://learn.deeplearning.ai/coursesbuild-apps-with-windsurfs-ai-coding-agents)
+- [Course Link](https://www.deeplearning.ai/short-courses/build-apps-with-windsurfs-ai-coding-agents/)
 
 - The course is divided into 2 parts:
     - Part 1: Is around the architecture of Windsurf and what a coding IDE needs to be as good as a pair programmer.
